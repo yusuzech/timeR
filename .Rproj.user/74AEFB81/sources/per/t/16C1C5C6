@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540322501017.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3347870480",
+    "id" : "16C1C5C6",
+    "lastKnownWriteTime" : 1540337146,
+    "last_content_update" : 1540337146223,
+    "path" : "~/workspace/Package/timeR/R/timer_class.R",
+    "project_path" : "R/timer_class.R",
+    "properties" : {
+        "cursorPosition" : "12,57",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
