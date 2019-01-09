@@ -34,14 +34,19 @@
 #' }{A function that controls whether to print extra message.}
 #' }
 #' @examples
-#' timer1 <- createTimer() #create timer object
-#' timer1$start("event1") #start a record
-#' #put some codes in between
-#' timer1$stop("event1") # stop a record
-#' timer1$start("event2") # start a new record
-#' table1 <- getTimer(timer1) # save record table
+#' timer1 <- createTimer()
+#' timer1$start("event1")
+#' # put some codes in between
+#' timer1$stop("event1")
+#'
+#' timer1$start("event2")
+#' # put some codes in between
+#' timer1$stop("event2",comment = "event 2 completed")
+#'
+#' table1 <- getTimer(timer1)
 #' timer1$toggleVerbose() # set verbose to FALSE as default is TRUE
-#' table1
+#'
+#' table1 # print all records in a tibble(data frame)
 #' @importFrom R6 R6Class
 #' @export
 timer <- R6::R6Class(
@@ -61,7 +66,8 @@ timer <- R6::R6Class(
                                   start = .POSIXct(character()),
                                   end = .POSIXct(character()),
                                   timeElapsed = numeric(),
-                                  stringsAsFactors = FALSE)){
+                                  stringsAsFactors = FALSE,
+                                  comment = character())){
             #check if input values are correct
             stopifnot(any(is(time,"POSIXt"),
                           is(time,"POSIXct")),
@@ -86,7 +92,8 @@ timer <- R6::R6Class(
                                  start = current_time,
                                  end = .POSIXct(character(1)),
                                  timeElapsed = numeric(1),
-                                 stringsAsFactors = FALSE)
+                                 stringsAsFactors = FALSE,
+                                 comment = NA_character_)
             #detect ifevent already exist
             if (any(theTable$event %in% eventName) ){
                 out_msg <- paste0("Event: '",
@@ -106,7 +113,7 @@ timer <- R6::R6Class(
             invisible(self)
         },
         #stop timer
-        stop = function(eventName){
+        stop = function(eventName,comment=NA_character_){
             theTable <- self$eventTable
             verbose <- self$verbose
             current_time <- Sys.time()
@@ -127,6 +134,7 @@ timer <- R6::R6Class(
                 timeElapsed <- as.numeric(current_time - startTime)
                 self$eventTable[isEventRow, ][["end"]] <- current_time
                 self$eventTable[isEventRow, ][["timeElapsed"]] <- timeElapsed
+                self$eventTable[isEventRow, ][["comment"]] <- comment
             } else {
                 stop("Event: '",eventName,"'",
                      " doesn't exist. Record won't be created.\n")

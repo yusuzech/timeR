@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "169137982",
+    "hash" : "0",
     "id" : "113C8C0D",
-    "lastKnownWriteTime" : 1540327602,
-    "last_content_update" : 1540327602909,
+    "lastKnownWriteTime" : 1547077492,
+    "last_content_update" : 1547077492493,
     "path" : "~/workspace/Package/timeR/R/timer_function.R",
     "project_path" : "R/timer_function.R",
     "properties" : {
-        "cursorPosition" : "17,2",
+        "cursorPosition" : "14,0",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
