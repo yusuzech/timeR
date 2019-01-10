@@ -2,4 +2,61 @@
 [0K[?25h]0;:/c/Users/yanyi/Documents/workspace/Package/timeR[?25l
 [0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l[1A[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0K
-[0m$[0K[3G[?25h[?25l$ d[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
+[0m$[0K[3G[?25h[?25l$ d[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/cpp-definition-cache.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/debug-breakpoints.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/files-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/source-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/windowlayoutstate.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/workbench-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/16C1C5C6.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/CB56729B.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/3EC7C1DC-contents.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/FBF43F3C-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K"[0K"[0K[17G[?25l$ git commit -m"m"[0K[18G[?25h[?25l$ git commit -m"mo"[0K[19G[?25h[?25l$ git commit -m"mod"[0K[20G[?25h[?25l$ git commit -m"modi"[0K[21G[?25h[?25l$ git commit -m"modif"[0K[22G[?25h[?25l$ git commit -m"modifi"[0K[23G[?25h[?25l$ git commit -m"modifie"[0K[24G[?25h[?25l$ git commit -m"modified"[0K[25G[?25h[?25l$ git commit -m"modified "[0K[26G[?25h[?25l$ git commit -m"modified n"[0K[27G[?25h[?25l$ git commit -m"modified na"[0K[28G[?25h[?25l$ git commit -m"modified nam"[0K[29G[?25h[?25l$ git commit -m"modified name"[0K[30G[?25h[?25l$ git commit -m"modified names"[0K[31G[?25h[?25l$ git commit -m"modified namesp"[0K[31G[?25h[32G[?25l$ git commit -m"modified namespa"[0K[33G[?25h[?25l$ git commit -m"modified namespac"[0K[34G[?25h[?25l$ git commit -m"modified namespace"[0K[35G[?25h[?25l$ git commit -m"modified namespac"[0K[34G[?25h[?25l$ git commit -m"modified namespace"[0K[35G[?25h[?25l
+[0K[?25h[master 30d2e0d] modified namespace[0K[?25l
+ 27 files changed, 194 insertions(+), 61 deletions(-)[0K
+ delete mode 100644 .Rproj.user/74AEFB81/console06/A05074CB[0K
+ create mode 100644 .Rproj.user/74AEFB81/console06/DC34640[0K
+ rename .Rproj.user/74AEFB81/sources/{per/t => s-48B39603}/113C8C0D (76%)[0K
+ rename .Rproj.user/74AEFB81/sources/{per/t => s-48B39603}/113C8C0D-contents (69%)[0K
+ rename .Rproj.user/74AEFB81/sources/{per/t => s-48B39603}/16C1C5C6 (71%)[0K
+ rename .Rproj.user/74AEFB81/sources/{per/t => s-48B39603}/16C1C5C6-contents (91%)[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/3EC7C1DC-contents[0K
+ rename .Rproj.user/74AEFB81/sources/{per/t => s-48B39603}/CB56729B (89%)[0K
+ rename .Rproj.user/74AEFB81/sources/{per/t => s-48B39603}/CB56729B-contents (100%)[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/CDBE174B-contents[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/F21D1D54[0K
+ rename R/hello.R => .Rproj.user/74AEFB81/sources/s-48B39603/F21D1D54-contents (100%)[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/FBF43F3C-contents[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/lock_file[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[3G[?25h[4G[?25l$ gi[0K[?25ht[0K[7G[?25l$ git p[0K[?25hs[0K[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25hs[0Ka[0K[?25l$ git push origin ms[0K[?25h[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hEnumerating objects: 52, done.[0K[?25l
+Counting objects: 100% (52/52), done.[0K
+Delta compression using up to 8 threads[0K
+Compressing objects: 100% (30/30), done.[0K
+Writing objects:  35% (11/31)[0K[1G[?25hWriting objects: 100% (31/31), 6.41 KiB | 1.60 MiB/s, done.[0K[?25l
+Total 31 (delta 12), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas:  50% (6/12)[0K[41G[?25lremote: Resolving deltas: 100% (12/12), completed with 9 local objects.[0K
+[0K[?25hTo https://github.com/yusuzech/timeR.git[0K[?25l
+   0ad9112..30d2e0d  master -> master[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m"modified namespace"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m"modified namespace"[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h

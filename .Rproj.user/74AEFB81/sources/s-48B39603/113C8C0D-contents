@@ -9,6 +9,7 @@
 #' timer1$start("event1") # start timing for event 1
 #' timer1$stop("event1", comment = "event 1 stopped") # stop timing for event 1(comment is optional)
 #' getTimer(timer1) # get all records in a data frame
+#' @export
 createTimer <- function(verbose = T){
     return(timer$new(verbose = verbose))
 }
@@ -27,6 +28,7 @@ createTimer <- function(verbose = T){
 #' Sys.sleep(1)
 #' timer1$stop("event1")
 #' gettimer(timer1)
+#' @export
 getTimer <- function(object){
     stopifnot(any(class(object) == "timer"))
     return(object$getTimer())
