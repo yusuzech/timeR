@@ -366,4 +366,138 @@ Total 13 (delta 5), reused 0 (delta 0)[0K
 $[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
 [0K[?25h]0;:/c/Users/yanyi/Documents/workspace/Package/timeR[?25l
 [0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
-[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0K[?25ld[0K[9G[?25h[10G[11G[?25l$ git add .[0K[?25h
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0K[?25ld[0K[9G[?25h[10G[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/cpp-definition-cache.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/debug-breakpoints.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/files-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/source-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/windowlayoutstate.pper.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/pcs/workbench-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/rmd-outputs.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/prop/67058E10.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/prop/7177BB76.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/prop/8D499EB.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/prop/93AE3B17.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D319D15D/3A40B418.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D319D15D/3A40B418-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D319D15D/907B76C7.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D319D15D/907B76C7-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D319D15D/A7A94E4A.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D319D15D/A7A94E4A-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D319D15D/B4C8A832.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D319D15D/B4C8A832-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[7G[?25h[8G[?25l$ git co[0K[?25hm[0Km[0Ki[0K[?25lt[0K[12G[?25h[13G[14G[?25l$ git commit -[0K[14G[?25h[15G[?25l$ git commit -m[0K[?25h"[0K"[0K[17G[?25l$ git commit -m"r"[0K[18G[?25h[?25l$ git commit -m"ra"[0K[19G[?25h[?25l$ git commit -m"ran"[0K[20G[?25h[?25l$ git commit -m"ran "[0K[21G[?25h[?25l$ git commit -m"ran R"[0K[22G[?25h[?25l$ git commit -m"ran RM"[0K[23G[?25h[?25l$ git commit -m"ran RMD"[0K[24G[?25h[?25l$ git commit -m"ran RMD "[0K[25G[?25h[?25l$ git commit -m"ran RMD c"[0K[26G[?25h[?25l$ git commit -m"ran RMD ch"[0K[27G[?25h[?25l$ git commit -m"ran RMD che"[0K[28G[?25h[?25l$ git commit -m"ran RMD chec"[0K[29G[?25h[?25l$ git commit -m"ran RMD check"[0K[30G[?25h[?25l$ git commit -m"ran RMD check "[0K[31G[?25h[?25l$ git commit -m"ran RMD check a"[0K[32G[?25h[?25l$ git commit -m"ran RMD check an"[0K[32G[?25h[33G[?25l$ git commit -m"ran RMD check and"[0K[34G[?25h[?25l$ git commit -m"ran RMD check and "[0K[35G[?25h[?25l$ git commit -m"ran RMD check and f"[0K[36G[?25h[?25l$ git commit -m"ran RMD check and fi"[0K[37G[?25h[?25l$ git commit -m"ran RMD check and fix"[0K[37G[?25h[38G[?25l$ git commit -m"ran RMD check and fixe"[0K[39G[?25h[?25l$ git commit -m"ran RMD check and fixed"[0K[40G[?25h[?25l$ git commit -m"ran RMD check and fixed "[0K[41G[?25h[?25l$ git commit -m"ran RMD check and fixed s"[0K[42G[?25h[?25l$ git commit -m"ran RMD check and fixed so"[0K[43G[?25h[?25l$ git commit -m"ran RMD check and fixed som"[0K[44G[?25h[?25l$ git commit -m"ran RMD check and fixed some"[0K[45G[?25h[?25l$ git commit -m"ran RMD check and fixed some "[0K[46G[?25h[?25l$ git commit -m"ran RMD check and fixed some i"[0K[47G[?25h[?25l$ git commit -m"ran RMD check and fixed some is"[0K[47G[?25h[48G[?25l$ git commit -m"ran RMD check and fixed some iss"[0K[48G[?25h[49G[?25l$ git commit -m"ran RMD check and fixed some issu"[0K[49G[?25h[50G[?25l$ git commit -m"ran RMD check and fixed some issue"[0K[51G[?25h[?25l$ git commit -m"ran RMD check and fixed some issues"[0K[52G[?25h[?25l
+[0K[?25h[master 55680ab] ran RMD check and fixed some issues[0K[?25l
+ 43 files changed, 85 insertions(+), 1035 deletions(-)[0K
+ rewrite .Rproj.user/74AEFB81/console06/INDEX001 (100%)[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/1B931E2E-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/25EFECA-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/2DA172C4-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/3EC7C1DC-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/6FEB3A08[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/6FEB3A08-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/7E35C2BB-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/8E288395-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/B6E85689-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/B77BDBE6-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/B9E44B50-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/CB56729B[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/CB56729B-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/CDBE174B-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/D0BF5738-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/E2470141[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/E2470141-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/EE0E0660-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/F21D1D54-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/FBF43F3C-contents[0K
+ rename .Rproj.user/74AEFB81/sources/{s-48B39603/113C8C0D => s-D319D15D/3A40B418} (66%)[0K
+ rename .Rproj.user/74AEFB81/sources/{s-48B39603/113C8C0D-contents => s-D319D15D/3A40B418-contents} (90%)[0K
+ rename .Rproj.user/74AEFB81/sources/{s-48B39603/E8455EDB => s-D319D15D/907B76C7} (63%)[0K
+ rename .Rproj.user/74AEFB81/sources/{s-48B39603/E8455EDB-contents => s-D319D15D/907B76C7-contents} (56%)[0K
+ rename .Rproj.user/74AEFB81/sources/{s-D78C99B => s-D319D15D}/A7A94E4A (100%)[0K
+ rename .Rproj.user/74AEFB81/sources/{s-D78C99B => s-D319D15D}/A7A94E4A-contents (100%)[0K
+ rename .Rproj.user/74AEFB81/sources/{s-48B39603/16C1C5C6 => s-D319D15D/B4C8A832} (68%)[0K
+ rename .Rproj.user/74AEFB81/sources/{s-48B39603/16C1C5C6-contents => s-D319D15D/B4C8A832-contents} (100%)[0K
+ rename .Rproj.user/74AEFB81/sources/{s-48B39603 => s-D319D15D}/lock_file (100%)[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-D78C99B/5FACCDA7-contents[0K
+ delete mode 100644 .Rproj.user/74AEFB81/sources/s-D78C99B/lock_file[0K
+ rename .Rproj.user/74AEFB81/sources/s-48B39603/62A2667A-contents => DESCRIPTION (50%)[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25h[?25la[0K[20G[?25h[21G[?25l$ git push origin mas[0K[?25ht[0Ke[0Kr[0K[?25l
+[0K[?25hTo https://github.com/yusuzech/timeR.git[0K[?25l
+ [0;31m! [rejected]       [0m master -> master (fetch first)[0K
+[0;31merror: failed to push some refs to 'https://github.com/yusuzech/timeR.git'[0m[0K
+[0;33mhint: Updates were rejected because the remote contains work that you do[0m[0K
+[0;33mhint: not have locally. This is usually caused by another repository pushing[0m[0K
+[0;33mhint: to the same ref. You may want to first integrate the remote changes[0m[0K
+[0;33mhint: (e.g., 'git pull ...') before pushing again.[0m[0K[1G[?25h[?25l
+[0;33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[0m[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[12G[?25l$ git pull o[0K[?25hr[0K[?25li[0K[14G[?25h[15G[?25l$ git pull orig[0K[?25hi[0Kn[0K[19G[?25l$ git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hremote: Enumerating objects: 5, done.[0K[?25l
+remote: Counting objects: 100% (5/5), done.[0K
+remote: Compressing objects: 100% (3/3), done.[0K
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0[0K
+[0K[?25hUnpacking objects: 100% (3/3), done.[0K[?25l
+[0K[?25hFrom https://github.com/yusuzech/timeR[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+   01f69bc..4295e8a  master     -> origin/master[0K
+[0K[?25hMerge made by the 'recursive' strategy.[0K[?25l
+ README.md | 2 [0;32m+[0;31m-[0m[0K
+ 1 file changed, 1 insertion(+), 1 deletion(-)[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0K[?25ls[0K[9G[?25h[10G[?25l$ git push[0K[?25h[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0K[?25lr[0K[24G[?25h[25G[?25l
+[0K[?25h[?25lEnumerating objects: 72, done.[0K[1G[?25h[?25l
+Counting objects: 100% (52/52), done.[0K
+Delta compression using up to 8 threads[0K
+Compressing objects: 100% (28/28), done.[0K
+Writing objects: 100% (30/30), 4.25 KiB | 1.06 MiB/s, done.[0K
+Total 30 (delta 15), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas:  40% (6/15)[0K[41G[?25lremote: Resolving deltas: 100% (15/15), completed with 12 local objects.[0K
+[0K[?25hTo https://github.com/yusuzech/timeR.git[0K[?25l
+   4295e8a..6a149c1  master -> master[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25h[?25lu[0K[8G[?25h[9G[?25l$ git pul[0K[?25hl[0K[12G[?25l$ git pull o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hremote: Enumerating objects: 5, done.[0K[?25l
+remote: Counting objects: 100% (5/5), done.[0K
+remote: Compressing objects: 100% (3/3), done.[0K
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0[0K
+[0K[?25hUnpacking objects: 100% (3/3), done.[0K[?25l
+[0K[?25hFrom https://github.com/yusuzech/timeR[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+   6a149c1..8e03e47  master     -> origin/master[0K
+[0K[?25hUpdating 6a149c1..8e03e47[0K[?25l
+Fast-forward[0K
+[0K[?25h README.md | 2 [0;32m+[0;31m-[0m[0K[?25l
+ 1 file changed, 1 insertion(+), 1 deletion(-)[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$ gi[0K[?25ht[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h

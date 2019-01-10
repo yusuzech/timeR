@@ -1,6 +1,6 @@
 Package: timeR
 Type: Package
-Title: Functions to Time Your Code
+Title: A Package to Time Your Codes
 Version: 1.0.0
 Author: Yifu Yan
 Maintainer: Yifu Yan <yanyifu94@hotmail.com>
