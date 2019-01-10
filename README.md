@@ -1,7 +1,7 @@
 # timeR
 ## A simple package for timing your code.
 
-`timeR` package creates a R6 class, which allows you to create a timer object
+`timeR` package creates a R6 class object, which allows you to create a timer object
 to easily time your codes. Meanwhile, all records are saved to a data frame, so it's easy to retrieve all the records for later use.
 
 Timing codes is not difficult but can be very tedious. With `timeR`, you can save your energy on timing and put more effort on 
