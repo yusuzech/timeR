@@ -5,16 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "203115387",
     "id" : "E2470141",
-    "lastKnownWriteTime" : 1547103119,
-    "last_content_update" : 1547103119381,
+    "lastKnownWriteTime" : 1547104009,
+    "last_content_update" : 1547104017088,
     "path" : "~/workspace/Package/timeR/vignettes/timer-quick-start.Rmd",
     "project_path" : "vignettes/timer-quick-start.Rmd",
     "properties" : {
-        "cursorPosition" : "50,0",
+        "cursorPosition" : "124,0",
         "last_setup_crc32" : "",
-        "scrollLine" : "0"
+        "scrollLine" : "103"
     },
     "relative_order" : 6,
     "source_on_save" : false,
