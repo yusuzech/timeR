@@ -273,4 +273,57 @@ git add .[0K
 ' did not match any files[0K
 [0K[?25h[?25l
 [0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[7G[?25h[8G[?25l$ git ad[0K[?25hd[0K[11G[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[7G[?25h[8G[?25l$ git ad[0K[?25hd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/prop/5F687C32.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/E2470141.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/E2470141-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25h[?25lo[0K[8G[?25h[9G[?25l$ git com[0K[9G[?25h[10G[?25l$ git comm[0K[?25hi[0K[?25lt[0K[12G[?25h[13G[14G[?25l$ git commit -[0K[?25hm[0K"[0K"[0K[17G[?25l$ git commit -m"m"[0K[18G[?25h[?25l$ git commit -m"mo"[0K[18G[?25h[19G[?25l$ git commit -m"mod"[0K[20G[?25h[?25l$ git commit -m"modi"[0K[21G[?25h[?25l$ git commit -m"modif"[0K[22G[?25h[?25l$ git commit -m"modifi"[0K[23G[?25h[?25l$ git commit -m"modifie"[0K[24G[?25h[?25l$ git commit -m"modified"[0K[25G[?25h[?25l$ git commit -m"modified "[0K[26G[?25h[?25l$ git commit -m"modified v"[0K[27G[?25h[?25l$ git commit -m"modified vi"[0K[28G[?25h[?25l$ git commit -m"modified vig"[0K[29G[?25h[?25l$ git commit -m"modified vign"[0K[30G[?25h[?25l$ git commit -m"modified vigne"[0K[31G[?25h[?25l$ git commit -m"modified vignet"[0K[32G[?25h[?25l$ git commit -m"modified vignett"[0K[32G[?25h[33G[?25l$ git commit -m"modified vignette"[0K[34G[?25h[?25l$ git commit -m"modified vignette "[0K[35G[?25h[?25l$ git commit -m"modified vignette a"[0K[36G[?25h[?25l$ git commit -m"modified vignette an"[0K[37G[?25h[?25l$ git commit -m"modified vignette and"[0K[38G[?25h[?25l$ git commit -m"modified vignette and "[0K[38G[?25h[39G[?25l$ git commit -m"modified vignette and a"[0K[40G[?25h[?25l$ git commit -m"modified vignette and ad"[0K[41G[?25h[?25l$ git commit -m"modified vignette and add"[0K[42G[?25h[?25l$ git commit -m"modified vignette and add "[0K[43G[?25h[?25l$ git commit -m"modified vignette and add a"[0K[44G[?25h[?25l$ git commit -m"modified vignette and add an"[0K[45G[?25h[?25l$ git commit -m"modified vignette and add an "[0K[46G[?25h[?25l$ git commit -m"modified vignette and add an"[0K[45G[?25h[?25l$ git commit -m"modified vignette and add a"[0K[44G[?25h[?25l$ git commit -m"modified vignette and add a "[0K[45G[?25h[?25l$ git commit -m"modified vignette and add a n"[0K[46G[?25h[?25l$ git commit -m"modified vignette and add a ne"[0K[47G[?25h[?25l$ git commit -m"modified vignette and add a new"[0K[48G[?25h[?25l$ git commit -m"modified vignette and add a new "[0K[49G[?25h[?25l$ git commit -m"modified vignette and add a new s"[0K[50G[?25h[?25l$ git commit -m"modified vignette and add a new se"[0K[51G[?25h[?25l$ git commit -m"modified vignette and add a new sec"[0K[52G[?25h[?25l$ git commit -m"modified vignette and add a new sect"[0K[52G[?25h[53G[?25l$ git commit -m"modified vignette and add a new secti"[0K[54G[?25h[?25l$ git commit -m"modified vignette and add a new sectio"[0K[55G[?25h[?25l$ git commit -m"modified vignette and add a new section"[0K[56G[?25h[?25l
+[0K[?25h[master 375878e] modified vignette and add a new section[0K[?25l
+ 16 files changed, 199 insertions(+), 61 deletions(-)[0K
+ rewrite .Rproj.user/shared/notebooks/28BBCFCB-timer-quick-start/1/74AEFB8148B39603/chunks.json (73%)[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/28BBCFCB-timer-quick-start/1/s/c3w6b41b81u44/00000c.csv[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/28BBCFCB-timer-quick-start/1/s/c3w6b41b81u44/00000d.metadata[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/28BBCFCB-timer-quick-start/1/s/c3w6b41b81u44/00000d.rdf[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/28BBCFCB-timer-quick-start/1/s/c3w6b41b81u44/00000e.csv[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/28BBCFCB-timer-quick-start/1/s/c3w6b41b81u44/00000f.metadata[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/28BBCFCB-timer-quick-start/1/s/c3w6b41b81u44/00000f.rdf[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/28BBCFCB-timer-quick-start/1/s/c3w6b41b81u44/000010.csv[0K
+ rewrite .Rproj.user/shared/notebooks/28BBCFCB-timer-quick-start/1/s/chunks.json (73%)[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[6G[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hEnumerating objects: 45, done.[0K[?25l
+Counting objects: 100% (44/44), done.[0K
+Delta compression using up to 8 threads[0K
+Compressing objects:  60% (12/20)[0K[1G[?25hCompressing objects: 100% (20/20), done.[0K[?25l
+Writing objects: 100% (23/23), 5.21 KiB | 1.30 MiB/s, done.[0K
+Total 23 (delta 8), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (8/8), completed with 8 local objects.[0K[?25l
+[0K[?25hTo https://github.com/yusuzech/timeR.git[0K[?25l
+   1b23eac..375878e  master -> master[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[12G[?25l$ git pull o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0Km[0K[?25l$ git pull origin[0K[?25h[19G[?25l$ git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hremote: Enumerating objects: 5, done.[0K[?25l
+remote: Counting objects:  40% (2/5)[0K[40G[?25h[?25lremote: Counting objects: 100% (5/5), done.[0K
+remote: Compressing objects: 100% (3/3), done.[0K
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0[0K
+Unpacking objects: 100% (3/3), done.[0K
+[0K[?25hFrom https://github.com/yusuzech/timeR[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+   375878e..765f85e  master     -> origin/master[0K
+[0K[?25hUpdating 375878e..765f85e[0K[?25l
+Fast-forward[0K
+[0K[?25h README.md | 45 [0;32m++++++++++++++++++++++++++++++++++++++++++++[0;31m-[0m[0K[?25l
+ 1 file changed, 44 insertions(+), 1 deletion(-)[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/yanyi/Documents/workspace/Package/timeR[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
