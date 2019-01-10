@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "16C1C5C6",
-    "lastKnownWriteTime" : 1547077239,
-    "last_content_update" : 1547077239903,
+    "lastKnownWriteTime" : 1547103271,
+    "last_content_update" : 1547103271257,
     "path" : "~/workspace/Package/timeR/R/timer_class.R",
     "project_path" : "R/timer_class.R",
     "properties" : {
-        "cursorPosition" : "21,40",
-        "scrollLine" : "24",
+        "cursorPosition" : "127,65",
+        "scrollLine" : "113",
         "tempName" : "Untitled1"
     },
     "relative_order" : 2,

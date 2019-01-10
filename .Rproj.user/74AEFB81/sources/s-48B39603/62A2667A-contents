@@ -7,7 +7,7 @@ Maintainer: Yifu Yan <yanyifu94@hotmail.com>
 Description: This package provides a timer object which allows you to create
     a timer that records timings of your code. Records are saved to a data 
     frame automatically for readability and easy access.
-URL: https://github.com/yusuzech/timeR
+URL: 
 BugReports:
 Depends: R (>= 3.1.0)
 Imports: R6

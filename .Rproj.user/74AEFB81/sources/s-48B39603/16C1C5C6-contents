@@ -124,8 +124,8 @@ timer <- R6::R6Class(
                     theTable[theTable$event ==eventName,][["end"]]))
                 if (end_exist){
                     out_msg <- paste0("Event: '",eventName,
-                                      "' already has record for 'end'.",
-                                      " Overwriting previous record.\n")
+                                      "' already has a record.",
+                                      " Overwriting previous one.\n")
                     private$slprint(out_msg)
                 }
                 #modify the end anyway

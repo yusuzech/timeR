@@ -59,4 +59,45 @@ Total 31 (delta 12), reused 0 (delta 0)[0K
 [0K[?25h[?25l
 [0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m"modified namespace"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m"modified namespace"[0K[?25h[?25l$ git add .[0K[?25h[?25l
-[0K[?25h
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/prop/3FA99F2F.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/prop/8D499EB.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/113C8C0D.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/113C8C0D-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/1B931E2E-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-48B39603/25EFECA-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K"[0K"[0K[17G[?25l$ git commit -m"a"[0K[18G[?25h[?25l$ git commit -m"ad"[0K[19G[?25h[?25l$ git commit -m"add"[0K[20G[?25h[?25l$ git commit -m"add "[0K[21G[?25h[?25l$ git commit -m"add e"[0K[22G[?25h[?25l$ git commit -m"add ex"[0K[22G[?25h[23G[?25l$ git commit -m"add exp"[0K[24G[?25h[?25l$ git commit -m"add expo"[0K[25G[?25h[?25l$ git commit -m"add expor"[0K[26G[?25h[?25l$ git commit -m"add export"[0K[27G[?25h[?25l$ git commit -m"add export "[0K[28G[?25h[?25l$ git commit -m"add export i"[0K[29G[?25h[?25l$ git commit -m"add export in"[0K[30G[?25h[?25l$ git commit -m"add export in "[0K[31G[?25h[?25l$ git commit -m"add export in f"[0K[32G[?25h[?25l$ git commit -m"add export in fu"[0K[33G[?25h[?25l$ git commit -m"add export in fun"[0K[34G[?25h[?25l$ git commit -m"add export in func"[0K[35G[?25h[?25l$ git commit -m"add export in functi"[0K[37G[?25h[?25l$ git commit -m"add export in functio"[0K[38G[?25h[?25l$ git commit -m"add export in function"[0K[39G[?25h[?25l$ git commit -m"add export in functions"[0K[40G[?25h[?25l$ git commit -m"add export in functions "[0K[41G[?25h[?25l$ git commit -m"add export in functions d"[0K[42G[?25h[?25l$ git commit -m"add export in functions do"[0K[43G[?25h[?25l$ git commit -m"add export in functions doc"[0K[44G[?25h[?25l$ git commit -m"add export in functions docu"[0K[45G[?25h[?25l$ git commit -m"add export in functions docum"[0K[46G[?25h[?25l$ git commit -m"add export in functions docume"[0K[47G[?25h[?25l$ git commit -m"add export in functions documen"[0K[48G[?25h[?25l$ git commit -m"add export in functions document"[0K[49G[?25h[?25l$ git commit -m"add export in functions documenta"[0K[50G[?25h[?25l$ git commit -m"add export in functions documentat"[0K[51G[?25h[?25l$ git commit -m"add export in functions documentati"[0K[52G[?25h[?25l$ git commit -m"add export in functions documentatio"[0K[53G[?25h[?25l$ git commit -m"add export in functions documentation"[0K[54G[?25h[?25l
+[0K[?25h[master 3e7846c] add export in functions documentation[0K[?25l
+ 10 files changed, 82 insertions(+), 8 deletions(-)[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/1B931E2E-contents[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-48B39603/25EFECA-contents[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hEnumerating objects: 34, done.[0K[?25l
+Counting objects: 100% (34/34), done.[0K
+Delta compression using up to 8 threads[0K
+Compressing objects: 100% (17/17), done.[0K
+Writing objects:  11% (2/18)[0K[1G[?25hWriting objects: 100% (18/18), 2.63 KiB | 1.31 MiB/s, done.[0K[?25l
+Total 18 (delta 8), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  12% (1/8)[0K[1G[?25hremote: Resolving deltas: 100% (8/8), completed with 8 local objects.[0K[?25l
+[0K[?25hTo https://github.com/yusuzech/timeR.git[0K[?25l
+   30d2e0d..3e7846c  master -> master[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+bash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/yanyi/Documents/workspace/Package/timeR[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/yanyi/Documents/workspace/Package/timeR[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
