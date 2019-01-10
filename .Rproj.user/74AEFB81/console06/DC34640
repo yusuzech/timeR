@@ -326,4 +326,44 @@ Fast-forward[0K
 $[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
 [0K[?25h]0;:/c/Users/yanyi/Documents/workspace/Package/timeR[?25l
 [0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
-[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/prop/3FA99F2F.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/prop/93AE3B17.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D78C99B/5FACCDA7-contents.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D78C99B/A7A94E4A.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/74AEFB81/sources/s-D78C99B/A7A94E4A-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25h[?25lm[0K[15G[?25h[16G[?25l$ git commit -m"[0K[?25h[?25l$ git commit -m[0K[?25h[?25l$ git commit -[0K[?25hm[0K"[0K"[0K[17G[?25l$ git commit -m"r"[0K[18G[?25h[?25l$ git commit -m"re"[0K[19G[?25h[?25l$ git commit -m"rem"[0K[20G[?25h[?25l$ git commit -m"remo"[0K[21G[?25h[?25l$ git commit -m"remov"[0K[22G[?25h[?25l$ git commit -m"remove"[0K[23G[?25h[?25l$ git commit -m"remove "[0K[24G[?25h[?25l$ git commit -m"remove s"[0K[25G[?25h[?25l$ git commit -m"remove so"[0K[26G[?25h[?25l$ git commit -m"remove som"[0K[27G[?25h[?25l$ git commit -m"remove some"[0K[28G[?25h[?25l$ git commit -m"remove some "[0K[29G[?25h[?25l$ git commit -m"remove some t"[0K[30G[?25h[?25l$ git commit -m"remove some te"[0K[31G[?25h[?25l$ git commit -m"remove some tem"[0K[32G[?25h[?25l$ git commit -m"remove some temp"[0K[33G[?25h[?25l$ git commit -m"remove some tempo"[0K[34G[?25h[?25l$ git commit -m"remove some tempor"[0K[35G[?25h[?25l$ git commit -m"remove some tempora"[0K[36G[?25h[?25l$ git commit -m"remove some temporar"[0K[37G[?25h[?25l$ git commit -m"remove some temporary"[0K[38G[?25h[?25l$ git commit -m"remove some temporary "[0K[39G[?25h[?25l$ git commit -m"remove some temporary f"[0K[39G[?25h[40G[?25l$ git commit -m"remove some temporary fi"[0K[41G[?25h[?25l$ git commit -m"remove some temporary fil"[0K[42G[?25h[?25l$ git commit -m"remove some temporary file"[0K[43G[?25h[?25l$ git commit -m"remove some temporary files"[0K[43G[?25h[44G[?25l
+[0K[?25h[master 01f69bc] remove some temporary files[0K[?25l
+ 10 files changed, 88 insertions(+), 515 deletions(-)[0K
+ delete mode 100644 .RData[0K
+ delete mode 100644 .Rhistory[0K
+ rewrite .Rproj.user/74AEFB81/console06/INDEX001 (85%)[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-D78C99B/5FACCDA7-contents[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-D78C99B/A7A94E4A[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-D78C99B/A7A94E4A-contents[0K
+ create mode 100644 .Rproj.user/74AEFB81/sources/s-D78C99B/lock_file[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0K[?25lh[0K[10G[?25h[11G[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hEnumerating objects: 22, done.[0K[?25l
+Counting objects: 100% (22/22), done.[0K
+Delta compression using up to 8 threads[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects: 100% (13/13), 2.31 KiB | 1.15 MiB/s, done.[0K
+Total 13 (delta 5), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
+[0K[?25hTo https://github.com/yusuzech/timeR.git[0K[?25l
+   765f85e..01f69bc  master -> master[0K
+[0K[?25h[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/yanyi/Documents/workspace/Package/timeR[?25l
+[0;32myanyi@yusu-gaming [0;35m [0;33m~/Documents/workspace/Package/timeR[0;36m (master)[0m[0K
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0K[?25ld[0K[9G[?25h[10G[11G[?25l$ git add .[0K[?25h

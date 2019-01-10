@@ -4,11 +4,11 @@ Title: Functions to Time Your Code
 Version: 1.0.0
 Author: Yifu Yan
 Maintainer: Yifu Yan <yanyifu94@hotmail.com>
-Description: This package provides a timer object which allows you to create
-    a timer that records timings of your code. Records are saved to a data 
-    frame automatically for readability and easy access.
+Description: timeR package creates a R6 class, which allows you to create a 
+    timer object to easily time your codes. Meanwhile, all records are saved to a 
+    data frame, so it's easy to retrieve all the records for later use.
 URL: https://github.com/yusuzech/timeR
-BugReports:
+BugReports: https://github.com/yusuzech/timeR/issues
 Depends: R (>= 3.1.0)
 Imports: R6
 License: Apache License (== 2.0) | file LICENSE

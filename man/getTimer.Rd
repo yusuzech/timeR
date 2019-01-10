@@ -17,9 +17,9 @@ timer object has a built-in data frame that contains all timings. run this
 function to extract the data frame.
 }
 \examples{
-timer1 <- createtimer()
+timer1 <- createTimer()
 timer1$start("event1")
 Sys.sleep(1)
 timer1$stop("event1")
-gettimer(timer1)
+getTimer(timer1)
 }
