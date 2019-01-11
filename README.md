@@ -7,7 +7,7 @@
 to easily time your codes. Meanwhile, all records are saved to a data frame, so it's easy to retrieve all the records for later use.
 
 Timing codes is not difficult but can be very tedious. With `timeR`, you can save your energy on timing and put more effort on 
-your analysis. You can use `timeR` to time training time for machine learning models, record speed for requests when runing web-scrapinging scripts or other situations that you need to keep records of time.
+your analysis. You can use `timeR` to time training time for machine learning models, record speed for requests when running web-scraping scripts or other situations that you need to keep records of time.
 
 ## How to install
 

@@ -14,9 +14,9 @@ timer is a R6 Class that represent a timer.
 \section{Fields}{
 
 \describe{
-\item{\code{time}}{A POSIXct/POSIXlt value of your lastest timing.}
+\item{\code{time}}{A POSIXct/POSIXlt value of your latest timing.}
 
-\item{\code{event}}{A string of your lastest timing.}
+\item{\code{event}}{A string of your latest timing.}
 
 \item{\code{eventTable}}{A data frame that stores all timings.}
 
@@ -30,7 +30,7 @@ timer is a R6 Class that represent a timer.
   }{Initialize a timer object. You can also use \code{createTimer()}
   function to initialize a timer object.}
   \item{\code{start(eventName)}
-  }{Start timing for a event, \code{eventName} shoule be a string}
+  }{Start timing for a event, \code{eventName} should be a string}
   \item{\code{stop(eventName)}
   }{Stop timing for a event.}
   \item{\code{getTimer()}
@@ -39,7 +39,7 @@ timer is a R6 Class that represent a timer.
   \item{\code{removeEvent(eventName)}
   }{Remove an given row in the eventTable.}
   \item{\code{toggleVerbose()}
-  }{Toggle betwwen \code{TRUE} and \code{FALSE} for \code{verbose}}
+  }{Toggle between \code{TRUE} and \code{FALSE} for \code{verbose}}
   \item{\code{print()}
   }{Custom print method for timer class. However, you don't need to use this
   function to generate custom printing.

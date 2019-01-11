@@ -21,7 +21,7 @@ library(timeR)
 to easily time your codes. Meanwhile, all records are saved to a data frame, so it's easy to retrieve all the records for later use.
 
 Timing codes is not difficult but can be very tedious. With `timeR`, you can save your energy on timing and put more effort on 
-your analysis. You can use `timeR` to timing training time for machine learning models, record speed for requests hen runing web-scrapinging codes or other situations that you need to keep records of time.
+your analysis. You can use `timeR` to timing training time for machine learning models, record speed for requests hen running web-scraping codes or other situations that you need to keep records of time.
 
 # Basic Usage
 
@@ -56,12 +56,12 @@ my_timer$stop("event one")
 ```
 
 
-# Comparision
+# Comparison
 
 Let's compare the workflow with and without `timeR` in the following scenario.
 
 Our goal is to keep records of two events: **event 1** and **event 2**.  
-We need to keep records of startting and stopping time for both events as well as calculate
+We need to keep records of starting and stopping time for both events as well as calculate
 the time difference between them. Also, we want to save those information to a data frame for later analysis.
 
 ## Timing Codes With `timeR`
