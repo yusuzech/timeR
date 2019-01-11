@@ -4,7 +4,7 @@ Title: A Package to Time Your Codes
 Version: 1.0.0
 Author: Yifu Yan
 Maintainer: Yifu Yan <yanyifu94@hotmail.com>
-Description: A "timer" object is created to record timings and durations while running scripts. All records can be extracted to a dataframe for later use.
+Description: A "timer" object is created to record timings and durations while running scripts. All records can be extracted to a data frame for later use.
 URL: https://github.com/yusuzech/timeR
 BugReports: https://github.com/yusuzech/timeR/issues
 Depends: R (>= 3.1.0)
