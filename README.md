@@ -1,4 +1,6 @@
 # timeR
+
+[![Travis build status](https://travis-ci.org/yusuzech/timeR.svg?branch=master)](https://travis-ci.org/yusuzech/timeR)
 ## A simple package for timing your code.
 
 `timeR` package creates a R6 class object, which allows you to create a timer object
