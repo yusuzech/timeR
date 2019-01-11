@@ -14,7 +14,7 @@ Imports: R6
 License: Apache License (== 2.0) | file LICENSE
 LazyData: true
 Encoding: UTF-8
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
 Suggests: 
     knitr,
     rmarkdown
