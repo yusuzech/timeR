@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547749179214.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "70A7E4F",
+    "lastKnownWriteTime" : 1547751222,
+    "last_content_update" : 1547751222517,
+    "path" : "~/workspace/Package/timeR/cran-comments.md",
+    "project_path" : "cran-comments.md",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

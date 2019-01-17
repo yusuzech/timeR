@@ -1,12 +1,10 @@
 Package: timeR
 Type: Package
-Title: A Package to Time Your Codes
+Title: Time Your Codes
 Version: 1.0.0
 Author: Yifu Yan
 Maintainer: Yifu Yan <yanyifu94@hotmail.com>
-Description: timeR package creates a R6 class, which allows you to create a 
-    timer object to easily time your codes. Meanwhile, all records are saved to a 
-    data frame, so it's easy to retrieve all the records for later use.
+Description: Provides a 'timer' class that makes timing codes easier. One can create 'timer' objects and use them to record all timings, and extract recordings as data frame for later use.
 URL: https://github.com/yusuzech/timeR
 BugReports: https://github.com/yusuzech/timeR/issues
 Depends: R (>= 3.1.0)
