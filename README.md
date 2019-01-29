@@ -47,4 +47,5 @@ my_timer$toggleVerbose()
 my_timer$stop("event one")
 ```
 ## Vignettes
-[https://cran.r-project.org/web/packages/timeR/vignettes/timer-quick-start.html](timeR Quick Start)
+
+[timeR Quick Start](https://cran.r-project.org/web/packages/timeR/vignettes/timer-quick-start.html)
