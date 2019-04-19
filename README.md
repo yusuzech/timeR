@@ -52,6 +52,3 @@ my_timer$stop("event one")
 ## Vignettes
 
 [timeR Quick Start](https://cran.r-project.org/web/packages/timeR/vignettes/timer-quick-start.html)
-
-## Future Plans
-1. Allow user to modify column names or add new columns
