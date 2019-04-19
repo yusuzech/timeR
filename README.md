@@ -54,5 +54,4 @@ my_timer$stop("event one")
 [timeR Quick Start](https://cran.r-project.org/web/packages/timeR/vignettes/timer-quick-start.html)
 
 ## Future Plans
-1. Add callback each time timeR is called
-2. Allow user to modify column names or add new columns
+1. Allow user to modify column names or add new columns
