@@ -1,6 +1,9 @@
 # timeR
 
 [![Travis build status](https://travis-ci.org/yusuzech/timeR.svg?branch=master)](https://travis-ci.org/yusuzech/timeR)
+![](https://cranlogs.r-pkg.org/badges/grand-total/timeR)
+![](https://cranlogs.r-pkg.org/badges/timeR)
+![](https://cranlogs.r-pkg.org/badges/last-day/timeR)
 ## A simple package for timing your code.
 
 `timeR` package allows you to create a *timer* object
