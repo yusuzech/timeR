@@ -84,6 +84,13 @@ mytimer$stop("event 2",comment = "custom comment")
 
 # print records
 getTimer(mytimer)
+
+# get attributes for selected events
+mytimer$getStartTime("event 1")
+mytimer$getStopTime("event 1")
+mytimer$getTimeElapsed("event 1")
+mytimer$getComment("event 1")
+
 ```
 
 

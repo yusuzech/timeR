@@ -11,7 +11,7 @@
 #' getTimer(timer1) # get all records in a data frame
 #' @export
 createTimer <- function(verbose = T){
-    return(timer$new(verbose = verbose))
+    return(timeR$new(verbose = verbose))
 }
 
 
@@ -30,6 +30,6 @@ createTimer <- function(verbose = T){
 #' getTimer(timer1)
 #' @export
 getTimer <- function(object){
-    stopifnot(any(class(object) == "timer"))
+    stopifnot(any(class(object) == "timeR"))
     return(object$getTimer())
 }

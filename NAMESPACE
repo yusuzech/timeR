@@ -2,5 +2,5 @@
 
 export(createTimer)
 export(getTimer)
-export(timer)
+export(timeR)
 importFrom(R6,R6Class)
