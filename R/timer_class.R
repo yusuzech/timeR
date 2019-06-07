@@ -131,7 +131,7 @@ timer <- R6::R6Class(
                 #modify the end anyway
                 isEventRow <- theTable$event == eventName
                 startTime <- self$eventTable[isEventRow, ][["start"]]
-                timeElapsed <- as.numeric(current_time - startTime)
+                timeElapsed <- as.numeric(difftime(current_time,startTime,units = "secs"))
                 self$eventTable[isEventRow, ][["end"]] <- current_time
                 self$eventTable[isEventRow, ][["timeElapsed"]] <- timeElapsed
                 self$eventTable[isEventRow, ][["comment"]] <- comment
