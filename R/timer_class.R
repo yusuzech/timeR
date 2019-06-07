@@ -60,14 +60,14 @@ timer <- R6::R6Class(
         #initialize timer
         initialize = function(time=.POSIXct(character(1)),
                               event=character(1),
-                              verbose=TRUE,
-                              eventTable=data.frame(
-                                  event = character(),
-                                  start = .POSIXct(character()),
-                                  end = .POSIXct(character()),
-                                  timeElapsed = numeric(),
-                                  stringsAsFactors = FALSE,
-                                  comment = character())){
+                              verbose=TRUE){
+            eventTable <- data.frame(
+                event = character(),
+                start = .POSIXct(character()),
+                end = .POSIXct(character()),
+                timeElapsed = numeric(),
+                stringsAsFactors = FALSE,
+                comment = character())
             #check if input values are correct
             stopifnot(any(is(time,"POSIXt"),
                           is(time,"POSIXct")),
