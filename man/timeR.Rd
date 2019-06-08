@@ -53,6 +53,8 @@ timer is a R6 Class that represent a timer.
   }{Get time elapsed for a selected event.}
   \item{\code{getComment()}
   }{Get comment for a selected event.}
+  \item{\code{getEventf()}
+  }{Get entire row for a selected event.}
   \item{\code{print()}
   }{Custom print method for timer class. However, you don't need to use this
   function to generate custom printing.
@@ -84,9 +86,10 @@ timer$toggleVerbose() # set verbose to FALSE as default is TRUE
 table1 # print all records in a tibble(data frame)
 
 # get attributes for selected events
-timer$getStartTime("event 1")
-timer$getStopTime("event 1")
-timer$getTimeElapsed("event 1")
-timer$getComment("event 1")
+timer$getStartTime("event1")
+timer$getStopTime("event1")
+timer$getTimeElapsed("event1")
+timer$getComment("event1")
+timer$getEvent("event1")
 }
 \keyword{datasets}

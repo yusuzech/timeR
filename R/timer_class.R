@@ -31,6 +31,8 @@
 #'   }{Get time elapsed for a selected event.}
 #'   \item{\code{getComment()}
 #'   }{Get comment for a selected event.}
+#'   \item{\code{getEventf()}
+#'   }{Get entire row for a selected event.}
 #'   \item{\code{print()}
 #'   }{Custom print method for timer class. However, you don't need to use this
 #'   function to generate custom printing.
@@ -57,10 +59,11 @@
 #' table1 # print all records in a tibble(data frame)
 #'
 #' # get attributes for selected events
-#' timer$getStartTime("event 1")
-#' timer$getStopTime("event 1")
-#' timer$getTimeElapsed("event 1")
-#' timer$getComment("event 1")
+#' timer$getStartTime("event1")
+#' timer$getStopTime("event1")
+#' timer$getTimeElapsed("event1")
+#' timer$getComment("event1")
+#' timer$getEvent("event1")
 #' @importFrom R6 R6Class
 #' @export
 timeR <- R6::R6Class(
@@ -69,8 +72,8 @@ timeR <- R6::R6Class(
         #values
         eventTable = data.frame(
             event = character(),
-            start = .POSIXct(character()),
-            end = .POSIXct(character()),
+            start = character(),
+            end = character(),
             timeElapsed = numeric(),
             stringsAsFactors = FALSE,
             comment = character()),
@@ -87,11 +90,11 @@ timeR <- R6::R6Class(
             }
             theTable <- self$eventTable
             verbose <- self$verbose
-            current_time <- Sys.time()
+            current_time <- as.character(lubridate::now())
             #create that record/row
             newRow <- data.frame(event = eventName,
                                  start = current_time,
-                                 end = .POSIXct(character(1)),
+                                 end = character(1),
                                  timeElapsed = numeric(1),
                                  stringsAsFactors = FALSE,
                                  comment = NA_character_)
@@ -115,7 +118,7 @@ timeR <- R6::R6Class(
         stop = function(eventName,comment=NA_character_){
             theTable <- self$eventTable
             verbose <- self$verbose
-            current_time <- Sys.time()
+            current_time <- as.character(lubridate::now())
             #detect if event already exists
             if (any(theTable$event %in% eventName)){
                 #detect if end time for event already exist
@@ -130,7 +133,11 @@ timeR <- R6::R6Class(
                 #modify the end anyway
                 isEventRow <- theTable$event == eventName
                 startTime <- self$eventTable[isEventRow, ][["start"]]
-                timeElapsed <- as.numeric(difftime(current_time,startTime,units = "secs"))
+                timeElapsed <- difftime(
+                    lubridate::ymd_hms(current_time,tz = Sys.timezone()),
+                    lubridate::ymd_hms(startTime,tz = Sys.timezone()),
+                    units = "secs"
+                    )
                 self$eventTable[isEventRow, ][["end"]] <- current_time
                 self$eventTable[isEventRow, ][["timeElapsed"]] <- timeElapsed
                 self$eventTable[isEventRow, ][["comment"]] <- comment
@@ -168,7 +175,7 @@ timeR <- R6::R6Class(
         },
         getStartTime = function(eventName){
             rowIndex <- which(eventName == self$eventTable$event)
-            if (len(rowIndex) == 0) {
+            if (length(rowIndex) == 0) {
                 stop("event doesn't exist.")
             }
             result <- self$eventTable[rowIndex,"start"]
@@ -176,7 +183,7 @@ timeR <- R6::R6Class(
         },
         getStopTime = function(eventName){
             rowIndex <- which(eventName == self$eventTable$event)
-            if (len(rowIndex) == 0) {
+            if (length(rowIndex) == 0) {
                 stop("event doesn't exist.")
             }
             result <- self$eventTable[rowIndex,"stop"]
@@ -184,7 +191,7 @@ timeR <- R6::R6Class(
         },
         getTimeElapsed = function(eventName){
             rowIndex <- which(eventName == self$eventTable$event)
-            if (len(rowIndex) == 0) {
+            if (length(rowIndex) == 0) {
                 stop("event doesn't exist.")
             }
             result <- self$eventTable[rowIndex,"timeElapsed"]
@@ -192,10 +199,18 @@ timeR <- R6::R6Class(
         },
         getComment = function(eventName){
             rowIndex <- which(eventName == self$eventTable$event)
-            if (len(rowIndex) == 0) {
+            if (length(rowIndex) == 0) {
                 stop("event doesn't exist.")
             }
             result <- self$eventTable[rowIndex,"comment"]
+            return(result)
+        },
+        getEvent = function(eventName){
+            rowIndex <- which(eventName == self$eventTable$event)
+            if (length(rowIndex) == 0) {
+                stop("event doesn't exist.")
+            }
+            result <- self$eventTable[rowIndex,]
             return(result)
         },
         print = function(...){
@@ -209,5 +224,7 @@ timeR <- R6::R6Class(
             if(flag) writeLines(msg)
         }
     ),
-    active = list(now = Sys.time)
+    active = list(now = function(){
+        as.POSIXct(Sys.time(), format = "%Y-%m-%d %H:%M")
+    })
 )
