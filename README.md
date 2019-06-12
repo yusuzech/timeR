@@ -53,6 +53,3 @@ my_timer$stop("event one")
 my_timer$getEvent("event one")
 my_timer$getStartTime(event two)
 ```
-## Vignettes
-
-[timeR Quick Start](https://cran.r-project.org/web/packages/timeR/vignettes/timer-quick-start.html)
