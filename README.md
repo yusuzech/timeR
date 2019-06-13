@@ -16,7 +16,7 @@ your analysis. You can use `timeR` to time training time for machine learning mo
 
 ```r
 install.packages("timeR")
-# or install from github for the newest version
+# or install from github for the newest version,recommened as it fixes all bugs currently known.
 devtools::install_github("yusuzech/timeR")
 ```
 
