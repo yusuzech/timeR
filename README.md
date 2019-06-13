@@ -49,7 +49,7 @@ my_timer$toggleVerbose()
 # warnings will still be shown when verbose is turned off
 my_timer$stop("event one")
 
-# to get methods to get attributes of a selected event
+# get attributes of a selected event
 my_timer$getEvent("event one")
 my_timer$getStartTime("event two")
 ```
