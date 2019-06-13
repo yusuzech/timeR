@@ -186,7 +186,7 @@ timeR <- R6::R6Class(
             if (length(rowIndex) == 0) {
                 stop("event doesn't exist.")
             }
-            result <- self$eventTable[rowIndex,"stop"]
+            result <- self$eventTable[rowIndex,"end"]
             return(result)
         },
         getTimeElapsed = function(eventName){
