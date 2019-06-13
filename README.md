@@ -51,5 +51,5 @@ my_timer$stop("event one")
 
 # to get methods to get attributes of a selected event
 my_timer$getEvent("event one")
-my_timer$getStartTime(event two)
+my_timer$getStartTime("event two")
 ```
