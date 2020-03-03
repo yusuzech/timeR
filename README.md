@@ -24,7 +24,7 @@ devtools::install_github("yusuzech/timeR")
 
 ```r
 library(timeR)
-# Create a timer object
+# Create a timer object,precision default to s(second)
 my_timer <- createTimer()
 
 # start timing for an event
@@ -40,8 +40,9 @@ my_timer$stop("event two", comment = "my comment") # comment is optional
 # retrieve the table for all recordings
 getTimer(my_timer)
 
-# or create a timer object and setting verbose to false
-my_timer2 <- createTimer(verbose = F)
+# or create a timer object and setting verbose to false and use other precision
+# s(second), ms(millisecond), us(microsecond)
+my_timer2 <- createTimer(verbose = F,precision = "ms")
 
 # toggle on/off verbose
 my_timer$toggleVerbose()

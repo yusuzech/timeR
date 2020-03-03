@@ -68,7 +68,7 @@ the time difference between them. Also, we want to save those information to a d
 ## Timing Codes With `timeR`
 
 ```{r}
-#initialize a timer object named mytimer
+#initialize a timer object named mytimer: s, ms, us can be used as precision
 mytimer <- createTimer(precision = "ms")
 
 # event 1
