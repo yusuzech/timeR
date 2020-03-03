@@ -69,7 +69,7 @@ the time difference between them. Also, we want to save those information to a d
 
 ```{r}
 #initialize a timer object named mytimer
-mytimer <- createTimer()
+mytimer <- createTimer(precision = "ms")
 
 # event 1
 mytimer$start("event 1")

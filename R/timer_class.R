@@ -44,7 +44,7 @@
 #' }{A function that controls whether to print extra message.}
 #' }
 #' @examples
-#' timer <- createTimer()
+#' timer <- createTimer(precision = "ms")
 #' timer$start("event1")
 #' # put some codes in between
 #' timer$stop("event1")
@@ -78,10 +78,13 @@ timeR <- R6::R6Class(
             stringsAsFactors = FALSE,
             comment = character()),
         verbose = logical(),
+        precision = character(),
         #initialize timeR
-        initialize = function(verbose=TRUE){
+        initialize = function(verbose=TRUE,precision="s"){
             stopifnot(is.logical(verbose),!is.na(verbose))
+            stopifnot(precision %in% c("s","ms","us"))
             self$verbose = verbose
+            self$precision = precision
         },
         #start a timeR for event
         start = function(eventName){
@@ -90,7 +93,8 @@ timeR <- R6::R6Class(
             }
             theTable <- self$eventTable
             verbose <- self$verbose
-            current_time <- as.character(lubridate::now())
+            current_time = private$get_current_time(self$precision)
+
             #create that record/row
             newRow <- data.frame(event = eventName,
                                  start = current_time,
@@ -118,7 +122,7 @@ timeR <- R6::R6Class(
         stop = function(eventName,comment=NA_character_){
             theTable <- self$eventTable
             verbose <- self$verbose
-            current_time <- as.character(lubridate::now())
+            current_time = private$get_current_time(self$precision)
             #detect if event already exists
             if (any(theTable$event %in% eventName)){
                 #detect if end time for event already exist
@@ -186,7 +190,7 @@ timeR <- R6::R6Class(
             if (length(rowIndex) == 0) {
                 stop("event doesn't exist.")
             }
-            result <- self$eventTable[rowIndex,"end"]
+            result <- self$eventTable[rowIndex,"stop"]
             return(result)
         },
         getTimeElapsed = function(eventName){
@@ -222,6 +226,23 @@ timeR <- R6::R6Class(
     private = list(
         slprint = function(msg,flag = self$verbose){
             if(flag) writeLines(msg)
+        },
+        get_current_time = function(precision){
+
+            if(self$precision == "s"){
+                current_time <- as.character(lubridate::now())
+            } else if (self$precision == "ms") {
+                current_time <- as.character(
+                    lubridate::now(),
+                    format = "%Y-%m%-%d %H:%M:%OS3"
+                )
+            } else if (self$precision == "us") {
+                current_time <- as.character(
+                    lubridate::now(),
+                    format = "%Y-%m%-%d %H:%M:%OS6"
+                )
+            }
+            return(current_time)
         }
     ),
     active = list(now = function(){

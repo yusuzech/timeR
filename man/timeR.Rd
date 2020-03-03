@@ -71,7 +71,7 @@ timer is a R6 Class that represent a timer.
 }
 
 \examples{
-timer <- createTimer()
+timer <- createTimer(precision = "ms")
 timer$start("event1")
 # put some codes in between
 timer$stop("event1")

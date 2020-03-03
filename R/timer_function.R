@@ -2,6 +2,7 @@
 #'
 #' @param verbose A parameter to control whether to print messages while using
 #' methods. Default to \code{TRUE}.
+#' @param precision Precision for time, default to s, valid values are: s,ms and us
 #' @return a timer object.
 #' @examples
 #' timer1 <- createTimer() # print is enabled
@@ -10,8 +11,8 @@
 #' timer1$stop("event1", comment = "event 1 stopped") # stop timing for event 1(comment is optional)
 #' getTimer(timer1) # get all records in a data frame
 #' @export
-createTimer <- function(verbose = T){
-    return(timeR$new(verbose = verbose))
+createTimer <- function(verbose = T,precision = "s"){
+    return(timeR$new(verbose = verbose,precision = precision))
 }
 
 

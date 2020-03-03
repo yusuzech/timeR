@@ -4,11 +4,13 @@
 \alias{createTimer}
 \title{Create a timer object}
 \usage{
-createTimer(verbose = T)
+createTimer(verbose = T, precision = "s")
 }
 \arguments{
 \item{verbose}{A parameter to control whether to print messages while using
 methods. Default to \code{TRUE}.}
+
+\item{precision}{Precision for time, default to s, valid values are: s,ms and us}
 }
 \value{
 a timer object.
