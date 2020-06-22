@@ -1,4 +1,4 @@
-# timeR
+# timeR 1.2.0
 
 [![Travis build status](https://travis-ci.org/yusuzech/timeR.svg?branch=master)](https://travis-ci.org/yusuzech/timeR)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/timeR)
@@ -16,7 +16,7 @@ your analysis. You can use `timeR` to time training time for machine learning mo
 
 ```r
 install.packages("timeR")
-# or install from github for the newest version,recommened as it fixes all bugs currently known.
+# or install from github
 devtools::install_github("yusuzech/timeR")
 ```
 

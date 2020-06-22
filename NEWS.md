@@ -6,7 +6,7 @@ Release v1.1.0
 
 * Fixed a bug where timeElapsed could be in other units instead of in seconds.
 * Added methods that will return attributes from selected event
-* Refactored codes, removed redundent portion.
+* Refactored codes, removed redundant portion.
 * switch to use lubridate for time calculation
 * use string to represent datetime in dataframe which prevents errors from POSIXlt
 

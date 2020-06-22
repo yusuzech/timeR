@@ -1,7 +1,7 @@
 Package: timeR
 Type: Package
 Title: Time Your Codes
-Version: 1.1.0
+Version: 1.2.0
 Author: Yifu Yan
 Maintainer: Yifu Yan <yanyifu94@hotmail.com>
 Description: Provides a 'timeR' class that makes timing codes easier. One can create 'timeR' objects and use them to record all timings, and extract recordings as data frame for later use.
